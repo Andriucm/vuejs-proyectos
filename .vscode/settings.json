@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "examenes",
+        "navegacion",
+        "numeros",
+        "Programacion",
+        "tecnologias"
+    ],
+    "editor.cursorSmoothCaretAnimation": "on",
+    "errorLens.editorHoverPartsEnabled": {
+        "messageEnabled": true
+    },
+    "errorLens.enableOnDiffView": false,
+    "errorLens.fontStyleItalic": false
+}
